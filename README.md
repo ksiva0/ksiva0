@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://www.bing.com/images/search?view=detailV2&ccid=kbUTNQ5P&id=E137E0E0C14C768B0A5C21192B55E11FD3E88B10&thid=OIP.kbUTNQ5Pw-esY0-8yjb8JQHaEK&mediaurl=https%3a%2f%2fmedia3.giphy.com%2fmedia%2fRbDKaczqWovIugyJmW%2fgiphy.gif&exph=270&expw=480&q=gif+for+data+scientist+on+github&simid=608004418685059424&FORM=IRPRST&ck=C90CA9903B5C780ED5ECDE7EC7F351F9&selectedIndex=43&itb=0)">
 </a>
 
 - 👋 Hi, I’m @ksiva0
