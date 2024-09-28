@@ -30,14 +30,14 @@
 ### 🚀 My GitHub Stats:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sivasankar&show_icons=true&theme=radical" alt="sivasankar's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername's GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar&theme=radical" alt="sivasankar's GitHub Streak Stats" />
 </p>
 
 ---
 
 ### 📊 Language Usage:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
