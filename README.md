@@ -21,7 +21,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
     <!-- Add more icons for the tools you use -->
 </p>
 
@@ -29,8 +28,8 @@
 
 ### 🚀 My GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=[sivasankar](https://github.com/ksiva0)&show_icons=true&theme=radical" alt="sivasankar's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[sivasankar](https://github.com/ksiva0)&theme=radical" alt="sivasankar's GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ksiva0&show_icons=true&theme=radical" alt="sivasankar's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksiva0&theme=radical" alt="sivasankar's GitHub Streak Stats" />
 </p>
 
 ---
