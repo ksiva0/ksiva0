@@ -44,7 +44,7 @@
 ### 🔗 Connect with Me:
 <p align="center">
     <a href="https://linkedin.com/in/siva-sankar-kommerla" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://medium.com/@sivamaster.siva08" target="blank"><img align="center" alt="@sivamaster.siva08" height="30" width="40" /></a>
+    <a href="https://medium.com/@sivamaster.siva08" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="Medium" height="30" width="40" /></a>    
     <a href="mailto:siva.kommerla@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
