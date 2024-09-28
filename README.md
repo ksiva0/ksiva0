@@ -29,8 +29,8 @@
 
 ### 🚀 My GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sivasankar&show_icons=true&theme=radical" alt="sivasankar's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar&theme=radical" alt="sivasankar's GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=[sivasankar](https://github.com/ksiva0)&show_icons=true&theme=radical" alt="sivasankar's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[sivasankar](https://github.com/ksiva0)&theme=radical" alt="sivasankar's GitHub Streak Stats" />
 </p>
 
 ---
@@ -42,19 +42,9 @@
 
 ---
 
-### 📝 Latest Blog Posts:
-<p align="left">
-- [Blog Post Title 1](https://yourbloglink.com)
-- [Blog Post Title 2](https://yourbloglink.com)
-- [Blog Post Title 3](https://yourbloglink.com)
-</p>
-
----
-
 ### 🔗 Connect with Me:
 <p align="center">
     <a href="https://linkedin.com/in/siva-sankar-kommerla" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://twitter.com/yourtwitter" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
     <a href="mailto:siva.kommerla@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
