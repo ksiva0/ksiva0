@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ksiva0&label=Profile%20views&color=2DD4BF&style=flat" alt="ksiva0" />
 </p>
 
-<table>
+<table align="center">
 <tr>
 <td width="55%" valign="top">
 
@@ -24,56 +24,41 @@
 
 <br>
 
+<div align="center">
+
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,anaconda,pandas,numpy,sklearn,tensorflow,git,github,vscode,linux&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,anaconda,pandas,numpy,sklearn,tensorflow,git,github,vscode,linux&theme=dark" />
 
-<br>
-
-### 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ksiva0&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-</p>
-
-<br>
+<br><br>
 
 ### 🚀 GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ksiva0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ksiva0&theme=tokyonight&hide_border=true" />
-</p>
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksiva0&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ksiva0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ksiva0&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksiva0&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<br>
+<br><br>
 
 ### 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/siva-sankar-kommerla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@sivamaster.siva08" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:siva.kommerla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/siva-sankar-kommerla" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@sivamaster.siva08" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="mailto:siva.kommerla@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">⚡ Keep Exploring, Keep Learning, Keep Growing ⚡</p>
+<br><br>
+
+⚡ Keep Exploring, Keep Learning, Keep Growing ⚡
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2DD4BF&height=100&section=footer" />
