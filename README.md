@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm Siva Sankar Kommerla</h1>
-<h3 align="center">A Passionate Data Scientist, Tech Enthusiast & Lifelong Learner 🚀</h3>
-
-<p align="right">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,100:0B1220&height=180&section=header&text=Siva%20Sankar%20Kommerla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=62&descSize=18" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ksiva0&label=Profile%20views&color=2DD4BF&style=flat" alt="ksiva0" />
 </p>
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 About Me
+
 - 🌱 I'm currently diving deep into **Data Science** and **Machine Learning**
 - 💡 I'm interested in **AI, Predictive Analytics, Data Visualization**
 - 👯 I'm looking to collaborate on **Data Science Projects and Open-Source Initiatives**
 - ⚡ Fun fact: **Data is the new oil, but I prefer coffee to fuel my data insights ☕**
+
+</td>
+<td width="45%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -56,3 +64,5 @@
 </p>
 
 <p align="center">⚡ Keep Exploring, Keep Learning, Keep Growing ⚡</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:2DD4BF&height=100&section=footer" />
