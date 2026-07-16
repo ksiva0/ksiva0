@@ -21,7 +21,7 @@
 
 </td>
 <td width="45%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%">
+<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%">
 </td>
 </tr>
 </table>
