@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva Sankar Kommerla</h1>
 <h3 align="center">A Passionate Data Scientist, Tech Enthusiast & Lifelong Learner 🚀</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420">
 </p>
 
