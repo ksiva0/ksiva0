@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Scientist, Tech Enthusiast & Lifelong Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="420">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420">
 </p>
 
 <p align="center">
