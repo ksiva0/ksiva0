@@ -30,22 +30,19 @@
 
 <div align="center">
 
+
 ### 🛠️ Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=py,anaconda,pandas,numpy,sklearn,tensorflow,git,github,vscode,linux&theme=dark" />
 
 <br><br>
 
-### 🚀 GitHub Stats
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,100:0B1220&height=3" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ksiva0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ksiva0&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksiva0&layout=compact&theme=tokyonight&hide_border=true" />
+### 🚀 My GitHub Stats:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ksiva0&show_icons=true&theme=radical" alt="sivasankar's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksiva0&theme=radical" alt="sivasankar's GitHub Streak Stats" />
+</p>
 
 <br><br>
 
