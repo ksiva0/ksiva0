@@ -31,11 +31,16 @@
 <div align="center">
 
 
-### 🛠️ Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=py,anaconda,pandas,numpy,sklearn,tensorflow,git,github,vscode,linux&theme=dark" />
-
-<br><br>
+### 🛠️ Languages and Tools I Love Working With:
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+    <!-- Add more icons for the tools you use -->
+</p>
 
 
 ### 🚀 My GitHub Stats:
