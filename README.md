@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=ksiva0&label=Profile%20views&color=2DD4BF&style=flat" alt="ksiva0" />
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="420">
-</p>
-
 <table align="center">
 <tr>
 <td width="55%" valign="top">
