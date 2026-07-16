@@ -27,12 +27,15 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,anaconda,pandas,numpy,sklearn,tensorflow,git,github,vscode,linux&theme=dark" />
+</p>
+
+<br>
+
+### 🏆 Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ksiva0&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 <br>
@@ -45,6 +48,14 @@
 </p>
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksiva0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <br>
